@@ -4,6 +4,8 @@ library(shiny)
 library(plotly)
 library(ggplot2movies)  # Needed for the 'movies' data set
 
+require(markdown)
+
 shinyUI(
     navbarPage("Movie Rating Histogram",
                tabPanel("Movies Histogram",

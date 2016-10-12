@@ -6,4 +6,4 @@ User can enter their movie's rating and check how it fairs compare to other movi
 
 User can also change the histogram size by dragging the histogram bins to different size.
 
-
+Source code can be found at [https://github.com/kengcc/movies]
